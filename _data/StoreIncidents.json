@@ -2,13 +2,13 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 35000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
+		"price": 100000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -111,6 +111,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "wandererjoins",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -128,7 +133,7 @@
 	{
 		"abr": "meteor",
 		"price": 150,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "maninblack",
@@ -327,12 +332,12 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 12000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 2400,
 		"karmatype": "Good"
 	},
 	{
@@ -432,9 +437,9 @@
 	},
 	{
 		"abr": "sanctuary",
-		"price": 100000,
+		"price": 50000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 88
 }
